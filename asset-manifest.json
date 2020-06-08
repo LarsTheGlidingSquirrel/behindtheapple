@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/behindtheapple/static/css/main.5f361e03.chunk.css",
+    "main.js": "/behindtheapple/static/js/main.b1a3ff3c.chunk.js",
+    "main.js.map": "/behindtheapple/static/js/main.b1a3ff3c.chunk.js.map",
+    "runtime-main.js": "/behindtheapple/static/js/runtime-main.3c82ce7b.js",
+    "runtime-main.js.map": "/behindtheapple/static/js/runtime-main.3c82ce7b.js.map",
+    "static/js/2.0c57156e.chunk.js": "/behindtheapple/static/js/2.0c57156e.chunk.js",
+    "static/js/2.0c57156e.chunk.js.map": "/behindtheapple/static/js/2.0c57156e.chunk.js.map",
+    "index.html": "/behindtheapple/index.html",
+    "precache-manifest.9455037378e5b2e623dd43278cce55b7.js": "/behindtheapple/precache-manifest.9455037378e5b2e623dd43278cce55b7.js",
+    "service-worker.js": "/behindtheapple/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/behindtheapple/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0c57156e.chunk.js.LICENSE.txt": "/behindtheapple/static/js/2.0c57156e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/behindtheapple/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c82ce7b.js",
+    "static/js/2.0c57156e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b1a3ff3c.chunk.js"
+  ]
+}
